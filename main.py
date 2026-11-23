@@ -1,3 +1,5 @@
+# Personal Expense Tracker - command-line application.
+
 from decimal import Decimal, InvalidOperation
 
 def menu(expenses):

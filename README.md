@@ -21,6 +21,16 @@ Python 3. No external packages required
 
 Open the terminal in the project folder and run `python main.py`
 
+## Usage example
+
+Select `1` to add an expense and enter:
+
+- Amount: `12.50`
+- Category: `Transport`
+- Description: `Train ticket`
+
+Select `2` to display recorded expenses, or `3` to calculate the total.
+
 ## Input validation
 
 - Expense amounts must be positive and have at most two decimal places.

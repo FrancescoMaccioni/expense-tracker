@@ -11,4 +11,4 @@ venv/
 
 # Local expense data
 expenses.json
-expenses.json.temp
+expenses.json.tmp

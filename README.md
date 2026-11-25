@@ -36,7 +36,7 @@ Select `2` to display recorded expenses, or `3` to calculate the total.
 - Expense amounts must be positive and have at most two decimal places.
 - The maximum accepted amount is 999999999.99 EUR.
 
-# Data storage
+## Data storage
 
 Expenses are loaded from `expenses.json` at startup and saved automatically
 after adding, editing, or deleting an expense.
